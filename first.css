@@ -1,0 +1,47 @@
+.game{
+    width: 470px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    /* background-color: brown; 
+        height: 550px; */
+
+}
+
+.head{
+    background-color: #141414;
+    margin: 5px 0;
+    padding: 5px 0;
+    font-size: 50px;
+    
+}
+
+span{
+    color: rgb(183, 1, 165);
+}
+
+.nineSquares{
+    margin: auto;
+    text-align: center;
+    
+
+}
+
+.square{
+    width: 150px;
+    height: 150px;
+    background-color: #141414;
+    float: left;
+    margin: 2px;
+    font-size: 100px;
+    text-align: center;
+    
+    
+}
+
+.square:hover{
+    background-color: rgb(183, 1, 165);
+    cursor: pointer;
+}
+
+/*     background-color: rgb(183, 1, 165);  */
