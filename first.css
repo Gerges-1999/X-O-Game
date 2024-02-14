@@ -3,8 +3,7 @@
     margin: auto;
     text-align: center;
     color: white;
-    /* background-color: brown; 
-        height: 550px; */
+   
 
 }
 
@@ -43,5 +42,3 @@ span{
     background-color: rgb(183, 1, 165);
     cursor: pointer;
 }
-
-/*     background-color: rgb(183, 1, 165);  */
